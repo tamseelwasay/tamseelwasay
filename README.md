@@ -20,7 +20,7 @@
 
 ## Reach Me
 - 📫 How to reach me: [Email](mailto:tamseelwasay@gmail.com) | [LinkedIn](www.linkedin.com/in/tamseelwasay)
-- 🌐 Visit my [GitHub](https://github.com/tamseelwasay) to see my projects and contributions.
+- 🌐 Visit my [GitHub](https://github.com/tamseelwasay?tab=repositories) to see my projects and contributions.
 
 ---
 
